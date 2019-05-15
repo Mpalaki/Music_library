@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  */
 public class dbutils {
             private static final String USERNAME = "root";
-            private static final String PASS = "Athina@19";
+            private static final String PASS = "Vasi123";
             private static final String MYSQLURL = "jdbc:mysql://localhost:3306/music?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
             
     public static Connection createConnection(){  
